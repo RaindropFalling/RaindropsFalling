@@ -58,7 +58,7 @@ Katrina is responsible for approximately 1200 reported deaths, including about 1
 
 ## Hurricane Rita 2005
 
-![Image](https://www.nhc.noaa.gov/outreach/history/rita_2005_thumbnail.gif)
+![Image](https://www.nhc.noaa.gov/outreach/history/wilma_2005_thumbnail.gif)
 
 Rita, the third Category 5 hurricane of the season, was a destructive and deadly hurricane that devastated portions of southeastern Texas and southwestern Louisiana and significantly impacted the Florida Keys.
 
